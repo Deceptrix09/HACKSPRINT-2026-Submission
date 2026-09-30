@@ -1,0 +1,28 @@
+SAMPLE TRIAGE RULES (Part D should refine these)
+
+GENERAL
+SOP-GEN-1  Critical: immediate threat to life, people trapped or missing, or a mass casualty risk.
+SOP-GEN-2  High: serious damage or injuries, but people are not in immediate life danger.
+SOP-GEN-3  Medium: property damage or disruption, no injuries reported.
+SOP-GEN-4  Low: minor issue, no injuries, no spreading risk.
+SOP-GEN-5  Unverified single reports with no photo or document: do not go above High unless people are explicitly trapped.
+
+FLOOD
+SOP-FLOOD-1  Water above knee height with people stranded: Critical. Dispatch rescue boat and alert nearest hospital.
+SOP-FLOOD-2  Water on roads, vehicles stuck, no people stranded: Medium. Issue traffic advisory.
+SOP-FLOOD-3  Water above 1 metre or fast flowing: at least High.
+
+FIRE
+SOP-FIRE-1  Fire in an occupied building: Critical. Dispatch fire brigade and ambulance.
+SOP-FIRE-2  Fire in an unoccupied structure or open area: High. Dispatch fire brigade.
+
+BUILDING COLLAPSE
+SOP-COLLAPSE-1  Any collapse with people possibly trapped: Critical. Dispatch search and rescue and medical teams.
+SOP-COLLAPSE-2  Cracks or partial damage, building evacuated: Medium. Request structural inspection.
+
+MEDICAL
+SOP-MED-1  Unconscious, not breathing, or severe bleeding: Critical. Dispatch ambulance.
+SOP-MED-2  Injury, stable patient: High. Dispatch ambulance.
+
+EVIDENCE
+SOP-EVID-1  If text and photo disagree, flag the conflict and send to human review.

@@ -1,0 +1,5 @@
+[
+  {"id": "flood-1", "text": "Water above knee height, 6 people stuck on first floor. Koramangala 4th Block", "files": [], "expected_type": "flood", "expected_severity": "Critical"},
+  {"id": "fire-1", "text": "Fire in an empty warehouse near Peenya, nobody inside, smoke visible", "files": [], "expected_type": "fire", "expected_severity": "High"},
+  {"id": "flood-2", "text": "Some water on the road near MG Road, cars moving slowly, no one in trouble", "files": [], "expected_type": "flood", "expected_severity": "Medium"}
+]
